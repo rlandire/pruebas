@@ -1,4 +1,6 @@
 Estudiando bastante
 !!!! cambio cambio cambio !!! correccion
 
-!!! segundo lab. ca 1820-1830
+
+!!! segundo lab. ca 1800s
+>>>>>>> mybranch10
