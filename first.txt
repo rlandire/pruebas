@@ -3,4 +3,7 @@ Estudiando bastante
 
 
 !!! segundo lab. ca 1800s
->>>>>>> mybranch10.ca1820-1840
+
+
+!!! cambios nuevos por mi
+>>>>>>> mybranch10
